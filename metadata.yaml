@@ -1,0 +1,30 @@
+_repo: Pretty-Madcap-Dorothy--Or-How-She-Won-a-Lover_29776
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29776-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Libbey, Laura Jean
+    alias: Stillwell, Laura Jean Libbey
+    birthdate: 1862
+    deathdate: 1924
+    gutenberg_agent_id: '5201'
+    url: http://www.gutenberg.org/2009/agents/5201
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Jean_Libbey
+description: ''
+gutenberg_issued: '2009-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bookbinders -- New York (State) -- New York -- Fiction'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 1865-1918 -- Fiction'
+- !lcsh 'Women employees -- New York (State) -- New York -- Fiction'
+title: Pretty Madcap Dorothy; Or, How She Won a Lover
+url: http://www.gutenberg.org/ebooks/29776
