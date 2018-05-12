@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5201
     wikipedia: http://en.wikipedia.org/wiki/Laura_Jean_Libbey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29776#Pretty-Madcap-Dorothy--Or-How-She-Won-a-Lover
 gutenberg_issued: '2009-08-24'
 gutenberg_type: Text
 identifiers:
